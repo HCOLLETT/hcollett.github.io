@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know about Hunter Collett.
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: contrast
+search: false
 
 # Build settings
 markdown: kramdown
