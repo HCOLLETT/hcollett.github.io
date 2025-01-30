@@ -5,9 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/fp-header.jpg
- # actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+
 excerpt: >
   I make things funny, tasty, pretty,and work, but most importantly I make things better.
 feature_row:
