@@ -11,22 +11,21 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/fp-things.png
     alt: "Things "
-    title: "I Made This"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "I made this"
+    excerpt: "Some people would use the term craftsman, I would describe myself as a maker of things"
     btn_class: "btn--primary"
     btn_label: "Show Me"
   - image_path: /assets/images/fp-dreams.png
     alt: "Dreams"
-    title: "Heres What I think"
+    title: "I think that.."
     excerpt: "Dreams are how you get to goals and goals are how you get to dreams."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Tell Me"
   - image_path: /assets/images/fp-teams.png
     alt: "Teams"
-    title: "What I do"
-    excerpt: "I attribute most of my succsess not to my skillsets, but rather to my relentless efforts."
+    title: "I belive we can"
+    excerpt: "I attribute most of my succsess not to my skillsets, but rather to my relentless efforts to better my surroundings."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Lets Work Together"      
