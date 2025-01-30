@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hunter Collett
-email:
+email: Hunter.collett65@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know about Hunter Collett.
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: "contrast"
-search: false
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
 markdown: kramdown
@@ -56,16 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Hunter Collett"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "With enough delusion, and audacity, almost anything can be accomplished."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-bolt"
       url: "https://handsrustics.com"
-   # - label: "Twitter"
+    - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
+      #url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/hunter.collett.9/"
@@ -74,18 +74,20 @@ author:
       url: "https://www.instagram.com/the_hunter_collett/"
 
 footer:
-   - label: "Website"
+  links:
+    - label: "Website"
       icon: "fas fa-fw fa-bolt"
       url: "https://handsrustics.com"
-   # - label: "Twitter"
+    - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
+      #url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/hunter.collett.9/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/the_hunter_collett/"
+
 defaults:
   # _posts
   - scope:
