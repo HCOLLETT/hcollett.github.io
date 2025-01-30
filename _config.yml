@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "With enough delusion, and audacity, almost anything can be accomplished."
   links:
-    - label: "Website"
+    - label: "H+S Rustics"
       icon: "fas fa-fw fa-bolt"
       url: "https://handsrustics.com"
     - #label: "Twitter"
@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "H+S Rustics"
       icon: "fas fa-fw fa-bolt"
       url: "https://handsrustics.com"
     - #label: "Twitter"
