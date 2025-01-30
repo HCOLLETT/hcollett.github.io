@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 #github_username: username
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "fas fa-fw fa-bolt"# overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "HC"# overrides the website title displayed in the masthead, use " " for no title
 minimal_mistakes_skin: dirt
 search: false
 
