@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hunter Collett"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : ""
   links:
     - label: "H+S Rustics"
