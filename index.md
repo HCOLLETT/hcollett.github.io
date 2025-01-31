@@ -7,12 +7,13 @@ header:
   overlay_image: /assets/images/fp-header.jpg
 
 excerpt: >
-  I make things funny, tasty, pretty,and work, but most importantly I make things better.
+  Maker of Things
 feature_row:
   - image_path: /assets/images/fp-things.png
     alt: "Things "
     title: "I made this"
     excerpt: "Some people would use the term craftsman, I would describe myself as a maker of things"
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Show Me"
   - image_path: /assets/images/fp-dreams.png
