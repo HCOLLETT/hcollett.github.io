@@ -2,6 +2,7 @@
 title: "H+S Rustics"
 excerpt: "My small leather business"
 header:
+permalink: /hsrustics/
   image: /assets/images/IMG_4230.jpeg
   teaser: assets/images/IMG_4230.jpeg
 sidebar:
