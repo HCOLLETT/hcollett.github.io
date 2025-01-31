@@ -28,7 +28,7 @@ feature_row:
     alt: "Leather"
     title: ""
     excerpt: ""
-    url: "_portfolio/H+S Rustics/"
+    url: "/_portfolio/H+S Rustics/"
     btn_class: "btn--primary"
     btn_label: "H+S Rustics"      
 ---
