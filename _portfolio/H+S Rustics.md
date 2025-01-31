@@ -7,9 +7,6 @@ header:
 sidebar:
   
   - title: "Role"
-    url:/assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
-    image_path: /assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
-    image_alt: "logo"
     text: "Owner,Designer,Maker"
   - title: "Responsibilities"
     text: "all of them...like seriously, all of them"
