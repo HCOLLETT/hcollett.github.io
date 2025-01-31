@@ -12,25 +12,25 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/IMG_2354 (1).jpeg
     alt: "Bikes "
-    title: "I made this"
-    excerpt: "Some people would use the term craftsman, I would describe myself as a maker of things"
-    url: "/docs/configuration/"
+    title: ""
+    excerpt: ""
+    url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Show Me"
+    btn_label: "Motorcycles"
   - image_path: /assets/images/IMG_3552.jpeg
-    alt: "Dreams"
-    title: "I think that.."
-    excerpt: "Dreams are how you get to goals and goals are how you get to dreams."
-    url: "/docs/configuration/"
+    alt: "Fairmount College"
+    title: ""
+    excerpt: ""
+    url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Tell Me"
+    btn_label: "Fairmount College"
   - image_path: /assets/images/IMG_2164.jpeg
-    alt: "Teams"
-    title: "I belive we can"
-    excerpt: "I attribute most of my succsess not to my skillsets, but rather to my relentless efforts to better my surroundings."
-    url: "/docs/license/"
+    alt: "Leather"
+    title: ""
+    excerpt: ""
+    url: "_portfolio/H+S Rustics.md"
     btn_class: "btn--primary"
-    btn_label: "Lets Work Together"      
+    btn_label: "H+S Rustics"      
 ---
 
 {% include feature_row %}
