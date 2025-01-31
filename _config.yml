@@ -75,7 +75,7 @@ author:
   links:
     - label: "H+S Rustics"
       icon: "fas fa-fw fa-bolt"
-      url: "https://handsrustics.com"
+      url: "https://hsrustics.com"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
@@ -90,7 +90,7 @@ footer:
   links:
     - label: "H+S Rustics"
       icon: "fas fa-fw fa-bolt"
-      url: "https://handsrustics.com"
+      url: "https://hsrustics.com"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
