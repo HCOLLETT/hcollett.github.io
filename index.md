@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/fp-header.jpg
+  overlay_image: /assets/images/IMG_8949.jpeg
 
 excerpt: >
   Maker of Things
