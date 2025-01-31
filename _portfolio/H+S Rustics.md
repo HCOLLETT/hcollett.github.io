@@ -5,9 +5,10 @@ header:
   image: /assets/images/IMG_4230.jpeg
   teaser: assets/images/IMG_4230.jpeg
 sidebar:
-  - url:/assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
-    image_path: /assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
+  
   - title: "Role"
+    url:/assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
+    image_path: /assets/images/Screenshot 2023-10-29 at 5.34.37 PM.png
     image_alt: "logo"
     text: "Owner,Designer,Maker"
   - title: "Responsibilities"
