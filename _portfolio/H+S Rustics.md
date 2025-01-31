@@ -1,26 +1,26 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "H+S Rustics"
+excerpt: "H+S Rustics Portfolio Entry"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/IMG_4230.jpeg
+  teaser: assets/images/IMG_4230.jpeg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Owner,Designer,Maker"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "all of them...like seriously, all of them"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+    image_path: assets/images/IMG_2707.jpeg
+    alt: "gun case handle"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    image_path: assets/images/IMG_2164.jpeg
+    alt: "rivet wallet"
+  - url: /assets/images/IMG_1961.jpeg.jpg
+    image_path: assets/images/IMG_1961.jpeg
+    alt: "lasered ornament"
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
