@@ -3,8 +3,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+
   overlay_image: /assets/images/IMG_8949.jpeg
+  overlay_filter: 0.5 
 
 excerpt: >
   Maker of Things
