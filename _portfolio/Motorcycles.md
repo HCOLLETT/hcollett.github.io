@@ -9,7 +9,7 @@ header:
 sidebar:
   
   - title: "Main Bike"
-    text: "1997 Harley Davidson Sportster 1200 xlc"
+    text: "1997 Harley Davidson Sportster 1200"
   - title: ""
     text: ""
 
@@ -25,8 +25,9 @@ gallery:
     alt: "cams"
 ---
 
-  I'm not going to say this is where It all started. However, without my leather business, I wouldn't be nearly where I am today. A large portion of the skillsets and tools that I posess have come from my desire to improve the quality of my work here. Whether it be website development, graphic design, product design, manufactuing processes, all of the software that goes with those disciplines, or just the discipline it takes to be relentlesness in striving for something better, every aspect of my being has been shaped by the running down this particular dream. 
+  I'm going to keep this brief. I love all kinds of machines, cars, drones, nuclear reactors... but there's something in a motorcycle that just does something a little extra. If I didnt enjoy making stuff so much, I'd probably pack a bag and ride around for the rest of forever, but the harsh reality is, and this is a reoccuring theme, I enjoy making bikes more than I enjoy riding all day. The only place I want to go is to my shop, and when you start at your shop, it just seems like an extra step.
+  I could list out every way that I've worked on a motorcycle, but it would be easier to list what I haven't done.          . There's the list. 
 
 {% include gallery caption="" %}
 
-In 2017, I started making leather goods while I was studying Engineering at the University of Georgia. I was going broke trying to build motorcycles in college, and it seemed like a perfectly reasonable idea at the time to start a business to help offset some of those cost. Little did I know at the time, that whatever money I thought I was spending on parts would pale in comparison to the amount of money that would get invested into H+S. What started off as a couple of hand tools in the kitchen, has turned into a full blown workshop. Thanks to H+S we have been able to expand our scope envelope to include carpentry, metal fabrication, additive manufacturing, rapid prototyping, mechatronic serviceing, and most recently, small scale CNC milling. To be completely fair, leatherwork has taken a backseat lately, a real cart leading the horse type situation, but when your cart is a racecar, the horse is just there to enjoy the ride. 
+I know that sounds hyperbolic, but it's closer to the truth than not. I've had bikes into all of their pieces, custom wiring harnesses, laced rear hubs to front rims, rebuilt carbs, upholsterd seats, rebuilt whole engines, rebuilt forks, I even put on some edgy stickers. Now I dont claim to be a mechanic, and you won't catch me working on sombody else's bike, but my knowledge base in area of mechanics rest firmly on the cornerstone of building bikes. I am beliver in this simple principle, all forms of making are relitivly similar. I follow this simple process of dream, design, execute, analyze, and then I repeat it until I have arrived at my desired outcome.
