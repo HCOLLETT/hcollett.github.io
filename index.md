@@ -14,7 +14,7 @@ feature_row:
     alt: "Bikes "
     title: ""
     excerpt: ""
-    url: "/portfolio/"
+    url: "/portfolio/motorcycles/"
     btn_class: "btn--primary"
     btn_label: "Motorcycles"
   - image_path: /assets/images/IMG_3552.jpeg
