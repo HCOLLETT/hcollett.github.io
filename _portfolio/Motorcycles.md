@@ -1,24 +1,23 @@
 ---
-title: "H+S Rustics"
-excerpt: "My small leather business"
+title: "Motorcycles"
+excerpt: "One of my "hobbies""
 header:
 
-  image: /assets/images/IMG_4230.jpeg
-  teaser: assets/images/IMG_4230.jpeg
+  image: /assets/images/IMG_2354 (1).jpeg
+  teaser: assets/images/IMG_2354 (1).jpeg
 sidebar:
   
-  - title: "Role"
-    text: "Owner,Designer,Maker"
-  - title: "Responsibilities"
-    text: "all of them...like seriously, all of them"
+  - title: "Main Bike"
+    text: "1997 Harley Davidson Sportster 1200 xlc"
+
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/IMG_2707.jpeg
+  - url: /assets/images/IMG_4343.JPG
+    image_path: assets/images/IMG_4343.JPG
     alt: "gun case handle"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/IMG_2164.jpeg
+  - url: /assets/images/IMG_4191.jpeg
+    image_path: assets/images/IMG_4191.jpeg
     alt: "rivet wallet"
-  - url: /assets/images/IMG_1961.jpeg.jpg
+  - url: /assets/images/IMG_1961.jpeg
     image_path: assets/images/IMG_1961.jpeg
     alt: "lasered ornament"
 ---
