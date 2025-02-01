@@ -1,6 +1,6 @@
 ---
 title: "Motorcycles"
-excerpt: "Hobby is probably putting it lightly"
+excerpt: "My passion"
 header:
 
   image: /assets/images/IMG_0277.jpeg
@@ -20,9 +20,9 @@ gallery:
   - url: /assets/images/IMG_2924.jpeg
     image_path: assets/images/IMG_2924.jpeg
     alt: "sportster top end"
-  - url: /assets/images/IMG_3121.jpeg
-    image_path: assets/images/IMG_3121.jpeg
-    alt: "twin bikes"
+  - url: /assets/images/IMG_2889.jpeg
+    image_path: assets/images/IMG_2889.jpeg
+    alt: "cams"
 ---
 
   I'm not going to say this is where It all started. However, without my leather business, I wouldn't be nearly where I am today. A large portion of the skillsets and tools that I posess have come from my desire to improve the quality of my work here. Whether it be website development, graphic design, product design, manufactuing processes, all of the software that goes with those disciplines, or just the discipline it takes to be relentlesness in striving for something better, every aspect of my being has been shaped by the running down this particular dream. 
