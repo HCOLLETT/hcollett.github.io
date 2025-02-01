@@ -1,10 +1,10 @@
 ---
 title: "Motorcycles"
-excerpt: "One of my hobbies"
+excerpt: "One of my "hobbies""
 header:
 
-  image: /assets/images/IMG_2354 (1).jpeg
-  teaser: assets/images/IMG_2354 (1).jpeg
+  image: /assets/images/IMG_0277.jpeg
+  teaser: assets/images/IMG_0277.jpeg
 
 sidebar:
   
@@ -14,15 +14,15 @@ sidebar:
     text: ""
 
 gallery:
-  - url: /assets/images/IMG_4343.JPG
-    image_path: assets/images/IMG_4343.JPG
-    alt: "gun case handle"
-  - url: /assets/images/IMG_4191.jpeg
-    image_path: assets/images/IMG_4191.jpeg
-    alt: "rivet wallet"
-  - url: /assets/images/IMG_1961.jpeg
-    image_path: assets/images/IMG_1961.jpeg
-    alt: "lasered ornament"
+  - url: /assets/images/IMG_2354 (1).jpeg
+    image_path: assets/images/IMG_2354 (1).jpeg
+    alt: "Sprortster at congregation"
+  - url: /assets/images/IMG_2924.jpeg
+    image_path: assets/images/IMG_2924.jpeg
+    alt: "sportster top end"
+  - url: /assets/images/IMG_3121.jpeg
+    image_path: assets/images/IMG_3121.jpeg
+    alt: "twin bikes"
 ---
 
   I'm not going to say this is where It all started. However, without my leather business, I wouldn't be nearly where I am today. A large portion of the skillsets and tools that I posess have come from my desire to improve the quality of my work here. Whether it be website development, graphic design, product design, manufactuing processes, all of the software that goes with those disciplines, or just the discipline it takes to be relentlesness in striving for something better, every aspect of my being has been shaped by the running down this particular dream. 
