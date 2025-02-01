@@ -1,6 +1,6 @@
 ---
 title: "Motorcycles"
-excerpt: "One of my "hobbies""
+excerpt: "Hobby is probably putting it lightly"
 header:
 
   image: /assets/images/IMG_0277.jpeg
