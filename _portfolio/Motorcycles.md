@@ -1,14 +1,17 @@
 ---
 title: "Motorcycles"
-excerpt: "One of my "hobbies""
+excerpt: "One of my hobbies"
 header:
 
   image: /assets/images/IMG_2354 (1).jpeg
   teaser: assets/images/IMG_2354 (1).jpeg
+
 sidebar:
   
   - title: "Main Bike"
     text: "1997 Harley Davidson Sportster 1200 xlc"
+  - title: ""
+    text: ""
 
 gallery:
   - url: /assets/images/IMG_4343.JPG
